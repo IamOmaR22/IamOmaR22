@@ -1,4 +1,4 @@
-## 🔭 Full Stack Web Developer [![HitCount](http://hits.dwyl.com/Sayan3sarkar/Sayan3sarkar.svg)](http://hits.dwyl.com/Sayan3sarkar/Sayan3sarkar)
+## 🔭 Full Stack Web Developer [![HitCount](http://hits.dwyl.com/IamOmaR22/IamOmar22.svg)](http://hits.dwyl.com/IamOmaR22/IamOmar22)
 
 ` 😄 Md. Omar Faruk` |  `🌱 Dhaka, Bangladesh` | <a href="https://www.linkedin.com/in/iamomar22/" target="_blank"><img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/></a> `https://www.linkedin.com/in/iamomar22/`
 
