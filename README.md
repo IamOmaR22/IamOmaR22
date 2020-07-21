@@ -6,7 +6,7 @@
 
 ### Hi there 👋 
 
-A Full Stack Developer with Experience in Python, Django, PostgreSQL / SQLite/ Firebase/ MySQL.
+A Full Stack Developer with Experience in Python, Django, PostgreSQL / SQLite / Firebase / MySQL.
 
 Have also been involved in personal research on Machine Learning and Natural Language Processing.
 
