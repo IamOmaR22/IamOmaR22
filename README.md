@@ -24,7 +24,7 @@ Have also been involved in personal research on Machine Learning and Natural Lan
   <img src="https://img.shields.io/badge/Html5-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-ff7851" /> 
   <img src="https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-9ef380" /> 
   <img src="https://img.shields.io/badge/BootStrap4-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-9b5ee4" />   
-  <img src="https://img.shields.io/badge/Angular-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-c40f2e" />
+  <img src="https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-yellow" />
   <img src="https://img.shields.io/badge/MSQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-05a5e2" />   
   <img src="https://img.shields.io/badge/PostgreSQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue" />  
   <img src="https://img.shields.io/badge/SQLite-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow" />
