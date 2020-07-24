@@ -39,18 +39,20 @@ Have also been involved in personal research on Machine Learning and Natural Lan
 
 
 <p>
-  <img src="https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-important" /> 
-  <img src="https://img.shields.io/badge/Django-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-green" />
-  <img src="https://img.shields.io/badge/Html5-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-ff7851" /> 
-  <img src="https://img.shields.io/badge/CSS3-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-9ef380" /> 
-  <img src="https://img.shields.io/badge/BootStrap4-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-9b5ee4" />   
-  <img src="https://img.shields.io/badge/JavaScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-yellow" />
-  <img src="https://img.shields.io/badge/MSQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-05a5e2" />   
-  <img src="https://img.shields.io/badge/PostgreSQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-blue" />  
-  <img src="https://img.shields.io/badge/SQLite-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-yellow" />
-  <img src="https://img.shields.io/badge/Firebase-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-c40f2e" />
-  <img src="https://img.shields.io/badge/C-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-lightgrey" /> 
-  <img src="https://img.shields.io/badge/Java-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-yellow" />   
+  <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=blue&label=python&logo=python&style=for-the-badge">
+  <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=red&label=django&logo=django&style=for-the-badge">
+  <img alt="Mozilla Add-on" src="https://img.shields.io/amo/stars/dustman?color=yellow&label=javascript&logo=javascript&style=for-the-badge">
+  <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=red&label=html&logo=html5&style=for-the-badge">
+  <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=%23BE1C38&label=css&logo=css3&style=for-the-badge">
+  <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=%237952B3&label=bootstrap&logo=bootstrap&style=for-the-badge">  
+  <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=%23316192&label=postgresql&logo=postgresql&style=for-the-badge">
+  <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=%23E37A08&label=mysql&logo=mysql&style=for-the-badge"> 
+  <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=%23044A60&label=sqlite&logo=sqlite&logoColor=%234CA5DC&style=for-the-badge">
+  <img alt="Mozilla Add-on" src="https://img.shields.io/amo/stars/dustman?color=yellow&label=firebase&logo=firebase&style=for-the-badge">
+  <img alt="Mozilla Add-on" src="https://img.shields.io/amo/stars/dustman?color=%23A9C3DD&label=c&logo=c&style=for-the-badge">
+  <img alt="Mozilla Add-on" src="https://img.shields.io/amo/stars/dustman?color=%23F8981D&label=java&logo=java&logoColor=%23F8981D&style=for-the-badge">
+  <img alt="Mozilla Add-on" src="https://img.shields.io/amo/stars/dustman?color=%2341B883&label=Vue.js&logo=vue.js&style=for-the-badge">
+  <img alt="Mozilla Add-on" src="https://img.shields.io/amo/stars/dustman?color=%2378CFF5&label=jQuery&logo=jQuery&logoColor=%2378CFF5&style=for-the-badge">
 </p>
 
 💬 You can find the list of open source projects I have been a part of :point_down:
