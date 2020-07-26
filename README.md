@@ -32,6 +32,7 @@ Have also been involved in personal research on Machine Learning and Natural Lan
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-%234EAA25?style=flat-square&logo=GNU-Bash&logoColor=ffffff)
 
+![Jupyter](http://img.shields.io/badge/-Jupyter-%23585959?style=flat-square&logo=Jupyter)
 ![JetBrains](http://img.shields.io/badge/-JetBrains-%23000000?style=flat-square&logo=JetBrains)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-%233DDC84?style=flat-square&logo=Android-Studio&logoColor=222222)
 ![Heroku](http://img.shields.io/badge/-Heroku-400099?style=flat-square&logo=heroku&logoColor=white)
@@ -48,6 +49,7 @@ Have also been involved in personal research on Machine Learning and Natural Lan
   <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=%23316192&label=postgresql&logo=postgresql&style=for-the-badge">
   <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=%23E37A08&label=mysql&logo=mysql&style=for-the-badge"> 
   <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=%23044A60&label=sqlite&logo=sqlite&logoColor=%234CA5DC&style=for-the-badge">
+  <img alt="Mozilla Add-on" src="https://img.shields.io/amo/stars/dustman?color=%23F37726&label=jupyter&logo=jupyter&style=for-the-badge">
   <img alt="Mozilla Add-on" src="https://img.shields.io/amo/stars/dustman?color=yellow&label=firebase&logo=firebase&style=for-the-badge">
   <img alt="Mozilla Add-on" src="https://img.shields.io/amo/stars/dustman?color=%23A9C3DD&label=c&logo=c&style=for-the-badge">
   <img alt="Mozilla Add-on" src="https://img.shields.io/amo/stars/dustman?color=%23F8981D&label=java&logo=java&logoColor=%23F8981D&style=for-the-badge">
