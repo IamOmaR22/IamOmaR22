@@ -1,15 +1,14 @@
-## 🔭 Full Stack Web Developer [![HitCount](http://hits.dwyl.com/IamOmaR22/IamOmar22.svg)](http://hits.dwyl.com/IamOmaR22/IamOmar22)
+## 🔭 Full Stack Web Developer [![HitCount](http://hits.dwyl.com/IamOmaR22/IamOmar22.svg)](http://hits.dwyl.com/IamOmaR22/IamOmar22)&nbsp; [![Github](https://img.shields.io/github/followers/IamOmaR22?label=Follow&style=social)](https://github.com/IamOmaR22)&nbsp; [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=IamOmaR22)](https://github.com/IamOmaR22)
 
-` 😄 Md. Omar Faruk` |  `🏠 Dhaka, Bangladesh` | <a href="https://www.linkedin.com/in/iamomar22/" target="_blank"><img src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/></a> `https://www.linkedin.com/in/iamomar22/`
+` 😄 Md. Omar Faruk` |  `🏠 Dhaka, Bangladesh` | [![Linkedin](https://img.shields.io/badge/-Md.%20Omar%20Faruk-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/iamomar22/)](https://www.linkedin.com/in/iamomar22/)
+[![Mail](https://img.shields.io/badge/-iamomar022@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:iamomar022@gmail.com) [![Mail](https://img.shields.io/badge/-iamomar22@yahoo.com-%236001D2?style=flat-square&logo=yahoo!&logoColor=ffffff&link=)](mailto:iamomar22@yahoo.com)
 
 
+## About me 👋 
 
-### Hi there 👋 
-
-A Full Stack Developer with Experience in Python, Django, PostgreSQL / SQLite / Firebase / MySQL. Looking for opportunities, learning new skills, and polishing current ones.
+A Full Stack Developer with Experience in Python, Django, PostgreSQL / SQLite / Firebase / MySQL. Looking for opportunities, learning new skills, and polishing current ones. I'm open-source development enthusiast.
 
 Have also been involved in personal research on Machine Learning and Natural Language Processing.
-
 
 
 ## Key Skills
@@ -56,6 +55,31 @@ Have also been involved in personal research on Machine Learning and Natural Lan
   <img alt="Mozilla Add-on" src="https://img.shields.io/amo/stars/dustman?color=%2341B883&label=Vue.js&logo=vue.js&style=for-the-badge">
   <img alt="Mozilla Add-on" src="https://img.shields.io/amo/stars/dustman?color=%2378CFF5&label=jQuery&logo=jQuery&logoColor=%2378CFF5&style=for-the-badge">
 </p>
+
+
+
+<!--
+## Stack I work with
+<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
+-->
+
+
+### Interesting stats
+
+![Omar's stats](https://github-readme-stats.vercel.app/api?username=IamOmar22&show_icons=true)
 
 💬 You can find the list of open source projects I have been a part of :point_down:
 
