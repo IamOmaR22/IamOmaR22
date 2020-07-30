@@ -78,8 +78,15 @@ Have also been involved in personal research on Machine Learning and Natural Lan
 
 
 ### Interesting stats
-
+<!--
 ![Omar's stats](https://github-readme-stats.vercel.app/api?username=IamOmar22&show_icons=true)
+-->
+
+[![Omar's github stats](https://github-readme-stats.vercel.app/api?username=IamOmar22&theme=tokyonight&show_icons=true)](https://github.com/IamOmar22)
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamOmar22&theme=tokyonight)](https://github.com/IamOmar22)
+-->
 
 💬 You can find the list of open source projects I have been a part of :point_down:
 
