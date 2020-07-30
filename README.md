@@ -1,7 +1,10 @@
-## 🔭 Full Stack Web Developer [![HitCount](http://hits.dwyl.com/IamOmaR22/IamOmar22.svg)](http://hits.dwyl.com/IamOmaR22/IamOmar22)&nbsp; [![Github](https://img.shields.io/github/followers/IamOmaR22?label=Follow&style=social)](https://github.com/IamOmaR22)&nbsp; [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=IamOmaR22)](https://github.com/IamOmaR22)
+## 🔭 `😄 Md. Omar Faruk` |  `🏠 Dhaka, Bangladesh` [![HitCount](http://hits.dwyl.com/IamOmaR22/IamOmar22.svg)](http://hits.dwyl.com/IamOmaR22/IamOmar22) [![Github](https://img.shields.io/github/followers/IamOmaR22?label=Follow&style=social)](https://github.com/IamOmaR22)&nbsp; [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=IamOmaR22)](https://github.com/IamOmaR22)
 
-#### `😄 Md. Omar Faruk` |  `🏠 Dhaka, Bangladesh` | [![Linkedin](https://img.shields.io/badge/-Md.%20Omar%20Faruk-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/iamomar22/)](https://www.linkedin.com/in/iamomar22/)
-[![Mail](https://img.shields.io/badge/-iamomar022@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:iamomar022@gmail.com) [![Mail](https://img.shields.io/badge/-iamomar22@yahoo.com-%236001D2?style=flat-square&logo=yahoo!&logoColor=ffffff&link=)](mailto:iamomar22@yahoo.com)
+<!--
+## 🔭 Full Stack Web Developer [![HitCount](http://hits.dwyl.com/IamOmaR22/IamOmar22.svg)](http://hits.dwyl.com/IamOmaR22/IamOmar22)&nbsp; [![Github](https://img.shields.io/github/followers/IamOmaR22?label=Follow&style=social)](https://github.com/IamOmaR22)&nbsp; [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=IamOmaR22)](https://github.com/IamOmaR22)
+-->
+
+### `Connect with Me` [![Linkedin](https://img.shields.io/badge/-Md.%20Omar%20Faruk-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/iamomar22/)](https://www.linkedin.com/in/iamomar22/) [![Mail](https://img.shields.io/badge/-iamomar022@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:iamomar022@gmail.com) [![Mail](https://img.shields.io/badge/-iamomar22@yahoo.com-%236001D2?style=flat-square&logo=yahoo!&logoColor=ffffff&link=)](mailto:iamomar22@yahoo.com)
 
 
 ## ABOUT ME 👋 
@@ -81,7 +84,7 @@ Have also been involved in personal research on Machine Learning and Natural Lan
 -->
 
 
-### Interesting stats
+## Interesting stats
 <!--
 ![Omar's stats](https://github-readme-stats.vercel.app/api?username=IamOmar22&show_icons=true)
 [![Omar's github stats](https://github-readme-stats.vercel.app/api?username=IamOmar22&theme=dracula&show_icons=true)](https://github.com/IamOmar22)
