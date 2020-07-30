@@ -13,24 +13,27 @@ Have also been involved in personal research on Machine Learning and Natural Lan
 
 ## Key Skills
 
+#### LANGUAGES
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=Python&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat-square&logo=Bootstrap)
+
 ![Java](https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=Java)
 ![C](https://img.shields.io/badge/-C-%23A8B9CC?style=flat-square&logo=C&logoColor=%23222222)
 
+#### FRAMEWORKS
 ![Django](https://img.shields.io/badge/-Django-%23092E20?style=flat-square&logo=Django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat-square&logo=Bootstrap)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat-square&logo=PostgreSQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-%23003B57?style=flat-square&logo=SQLite)
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-2E2E2E?style=flat-square&logo=firebase&logoColor=ffcb2b)
 
+#### TOOLS
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-%234EAA25?style=flat-square&logo=GNU-Bash&logoColor=ffffff)
-
 ![Jupyter](http://img.shields.io/badge/-Jupyter-%23585959?style=flat-square&logo=Jupyter)
 ![JetBrains](http://img.shields.io/badge/-JetBrains-%23000000?style=flat-square&logo=JetBrains)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-%233DDC84?style=flat-square&logo=Android-Studio&logoColor=222222)
@@ -80,13 +83,25 @@ Have also been involved in personal research on Machine Learning and Natural Lan
 ### Interesting stats
 <!--
 ![Omar's stats](https://github-readme-stats.vercel.app/api?username=IamOmar22&show_icons=true)
+[![Omar's github stats](https://github-readme-stats.vercel.app/api?username=IamOmar22&theme=dracula&show_icons=true)](https://github.com/IamOmar22)
+[![Omar's github stats](https://github-readme-stats.vercel.app/api?username=IamOmar22&theme=tokyonight&show_icons=true)](https://github.com/IamOmar22)
 -->
 
-[![Omar's github stats](https://github-readme-stats.vercel.app/api?username=IamOmar22&theme=tokyonight&show_icons=true)](https://github.com/IamOmar22)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IamOmar22&theme=tokyonight&show_icons=true" />
+</p> 
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamOmar22&theme=tokyonight)](https://github.com/IamOmar22)
 -->
+
+<!--
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=IamOmar22&show_icons=true&theme=dracula" />&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamOmar22">
+</p> 
+-->
+
 
 💬 You can find the list of open source projects I have been a part of :point_down:
 
