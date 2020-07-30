@@ -1,17 +1,17 @@
 ## 🔭 Full Stack Web Developer [![HitCount](http://hits.dwyl.com/IamOmaR22/IamOmar22.svg)](http://hits.dwyl.com/IamOmaR22/IamOmar22)&nbsp; [![Github](https://img.shields.io/github/followers/IamOmaR22?label=Follow&style=social)](https://github.com/IamOmaR22)&nbsp; [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=IamOmaR22)](https://github.com/IamOmaR22)
 
-` 😄 Md. Omar Faruk` |  `🏠 Dhaka, Bangladesh` | [![Linkedin](https://img.shields.io/badge/-Md.%20Omar%20Faruk-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/iamomar22/)](https://www.linkedin.com/in/iamomar22/)
+#### `😄 Md. Omar Faruk` |  `🏠 Dhaka, Bangladesh` | [![Linkedin](https://img.shields.io/badge/-Md.%20Omar%20Faruk-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/iamomar22/)](https://www.linkedin.com/in/iamomar22/)
 [![Mail](https://img.shields.io/badge/-iamomar022@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:iamomar022@gmail.com) [![Mail](https://img.shields.io/badge/-iamomar22@yahoo.com-%236001D2?style=flat-square&logo=yahoo!&logoColor=ffffff&link=)](mailto:iamomar22@yahoo.com)
 
 
-## About me 👋 
+## ABOUT ME 👋 
 
 A Full Stack Developer with Experience in Python, Django, PostgreSQL / SQLite / Firebase / MySQL. Looking for opportunities, learning new skills, and polishing current ones. I'm open-source development enthusiast.
 
 Have also been involved in personal research on Machine Learning and Natural Language Processing.
 
 
-## Key Skills
+## KEY SKILLS
 
 #### LANGUAGES
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=Python&logoColor=ffffff)
@@ -23,7 +23,10 @@ Have also been involved in personal research on Machine Learning and Natural Lan
 
 #### FRAMEWORKS
 ![Django](https://img.shields.io/badge/-Django-%23092E20?style=flat-square&logo=Django&logoColor=white)
+![vue.js](https://img.shields.io/badge/-Vue.js-%23555555?style=flat-square&logo=vue.js&logoColor=%2341B883)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat-square&logo=Bootstrap)
+
+#### DATABASE
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat-square&logo=PostgreSQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-%23003B57?style=flat-square&logo=SQLite)
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white)
@@ -57,7 +60,6 @@ Have also been involved in personal research on Machine Learning and Natural Lan
   <img alt="Mozilla Add-on" src="https://img.shields.io/amo/stars/dustman?color=%2341B883&label=Vue.js&logo=vue.js&style=for-the-badge">
   <img alt="Mozilla Add-on" src="https://img.shields.io/amo/stars/dustman?color=%2378CFF5&label=jQuery&logo=jQuery&logoColor=%2378CFF5&style=for-the-badge">
 </p>
-
 
 
 <!--
