@@ -1,4 +1,4 @@
-## 🔭 `👦 Md. Omar Faruk` |  `🏠 Dhaka, Bangladesh` [![HitCount](http://hits.dwyl.com/IamOmaR22/IamOmar22.svg)](http://hits.dwyl.com/IamOmaR22/IamOmar22) [![Github](https://img.shields.io/github/followers/IamOmaR22?label=Follow&style=social)](https://github.com/IamOmaR22)&nbsp; [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=IamOmaR22)](https://github.com/IamOmaR22)
+## 🔭 `👦 Md. Omar Faruk` |  `🏠 Dhaka, Bangladesh` [![Github](https://img.shields.io/github/followers/IamOmaR22?label=Follow&style=social)](https://github.com/IamOmaR22)&nbsp; [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=IamOmaR22)](https://github.com/IamOmaR22)
 
 <!--
 ## 🔭 Full Stack Web Developer [![HitCount](http://hits.dwyl.com/IamOmaR22/IamOmar22.svg)](http://hits.dwyl.com/IamOmaR22/IamOmar22)&nbsp; [![Github](https://img.shields.io/github/followers/IamOmaR22?label=Follow&style=social)](https://github.com/IamOmaR22)&nbsp; [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=IamOmaR22)](https://github.com/IamOmaR22)
