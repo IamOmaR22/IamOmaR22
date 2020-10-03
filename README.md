@@ -1,10 +1,10 @@
-## 🔭 `👦 Md. Omar Faruk` |  `🏠 Dhaka, Bangladesh` [![Github](https://img.shields.io/github/followers/IamOmaR22?label=Follow&style=social)](https://github.com/IamOmaR22)<!--&nbsp; [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=IamOmaR22)](https://github.com/IamOmaR22)-->
+## 🔭 `👦 Md. Omar Faruk` |  `🏠 Dhaka, Bangladesh` [![Github](https://img.shields.io/github/followers/IamOmaR22?label=Followers&style=social)](https://github.com/IamOmaR22)<!--&nbsp; [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=IamOmaR22)](https://github.com/IamOmaR22)-->
 
 <!--
 ## 🔭 Full Stack Web Developer [![HitCount](http://hits.dwyl.com/IamOmaR22/IamOmar22.svg)](http://hits.dwyl.com/IamOmaR22/IamOmar22)&nbsp; [![Github](https://img.shields.io/github/followers/IamOmaR22?label=Follow&style=social)](https://github.com/IamOmaR22)&nbsp; [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=IamOmaR22)](https://github.com/IamOmaR22)
 -->
 
-### CONNECT WITH ME 👁‍🗨
+#### CONNECT WITH ME 👁‍🗨
 [![Linkedin](https://img.shields.io/badge/-Md.%20Omar%20Faruk-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/iamomar22/)](https://www.linkedin.com/in/iamomar22/) <a href="https://www.facebook.com/IamOmaR22/" target="_blank"><img src="https://img.shields.io/badge/Omar Faruk-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> [![Mail](https://img.shields.io/badge/-iamomar022@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:iamomar022@gmail.com) [![Mail](https://img.shields.io/badge/-iamomar22@yahoo.com-%236001D2?style=flat-square&logo=yahoo!&logoColor=ffffff&link=)](mailto:iamomar22@yahoo.com)
 
 
@@ -46,7 +46,7 @@ Have also been involved in personal research on Machine Learning and Natural Lan
 ![Heroku](http://img.shields.io/badge/-Heroku-400099?style=flat-square&logo=heroku&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
-
+<!--
 <p>
   <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=blue&label=python&logo=python&style=for-the-badge">
   <img alt="Plugin on redmine.org" src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter?color=red&label=django&logo=django&style=for-the-badge">
@@ -64,7 +64,7 @@ Have also been involved in personal research on Machine Learning and Natural Lan
   <img alt="Mozilla Add-on" src="https://img.shields.io/amo/stars/dustman?color=%2341B883&label=Vue.js&logo=vue.js&style=for-the-badge">
   <img alt="Mozilla Add-on" src="https://img.shields.io/amo/stars/dustman?color=%2378CFF5&label=jQuery&logo=jQuery&logoColor=%2378CFF5&style=for-the-badge">
 </p>
-
+-->
 
 <!--
 ## Stack I work with
