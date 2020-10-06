@@ -5,16 +5,36 @@
 -->
 
 #### CONNECT WITH ME 👁‍🗨
+<!--
 [![Linkedin](https://img.shields.io/badge/-Md.%20Omar%20Faruk-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/iamomar22/)](https://www.linkedin.com/in/iamomar22/) <a href="https://www.facebook.com/IamOmaR22/" target="_blank"><img src="https://img.shields.io/badge/Omar Faruk-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> [![Mail](https://img.shields.io/badge/-iamomar022@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:iamomar022@gmail.com) [![Mail](https://img.shields.io/badge/-iamomar22@yahoo.com-%236001D2?style=flat-square&logo=yahoo!&logoColor=ffffff&link=)](mailto:iamomar22@yahoo.com)
+-->
 
+<p align="center">
+<a href="https://www.linkedin.com/in/iamomar22" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Md. Omar Faruk's LinkedIn Profile" height="30" width="30"></a>&nbsp;&nbsp;&nbsp; <a href="https://dev.to/iamomar22" target="_blank"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Md. Omar Faruk's DEV Profile" height="30" width="30"></a>&nbsp;&nbsp;&nbsp; <a href="https://stackoverflow.com/users/14398143/md-omar-faruk" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="Md. Omar Faruk's Stackoverflow Profile" height="30" width="30"></a>&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/IamOmaR222" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Md. Omar Faruk's Twitter Profile" height="30" width="30"></a>&nbsp;&nbsp;&nbsp; <a href="https://www.facebook.com/IamOmaR22" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Md. Omar Faruk's Facebook Profile" height="30" width="30"></a>&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/IamOmaR22" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Md. Omar Faruk's Instagram Profile" height="30" width="30"></a> 
+</p>
+
+<!--
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Dev.to" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][devto]
+[<img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Facebook" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+
+[linkedin]: https://www.linkedin.com/in/iamomar22/
+[twitter]: https://twitter.com/IamOmaR22
+[devto]: https://dev.to/iamomar22
+[instagram]: https://www.instagram.com/IamOmaR22/
+[facebook]: https://www.facebook.com/IamOmaR22/
+-->
 
 ## ABOUT ME 👋 
 
 A Full Stack Developer with Experience in Python, Django, PostgreSQL / SQLite / Firebase / MySQL. Looking for opportunities, learning new skills, and polishing current ones. I'm open-source development enthusiast.
 
 Have also been involved in personal research on Machine Learning and Natural Language Processing.
-
-
+<!--
+I'm a full-stack software engineer working with **Python**, **Django**, **Vue.js**, **Docker**.
+-->
 ## KEY SKILLS
 
 #### LANGUAGES
