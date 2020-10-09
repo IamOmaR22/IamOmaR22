@@ -4,14 +4,18 @@
 ## 🔭 Full Stack Web Developer [![HitCount](http://hits.dwyl.com/IamOmaR22/IamOmar22.svg)](http://hits.dwyl.com/IamOmaR22/IamOmar22)&nbsp; [![Github](https://img.shields.io/github/followers/IamOmaR22?label=Follow&style=social)](https://github.com/IamOmaR22)&nbsp; [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=IamOmaR22)](https://github.com/IamOmaR22)
 -->
 
+<!--
 #### CONNECT WITH ME 👁‍🗨
+-->
 <!--
 [![Linkedin](https://img.shields.io/badge/-Md.%20Omar%20Faruk-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/iamomar22/)](https://www.linkedin.com/in/iamomar22/) <a href="https://www.facebook.com/IamOmaR22/" target="_blank"><img src="https://img.shields.io/badge/Omar Faruk-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a> [![Mail](https://img.shields.io/badge/-iamomar022@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:iamomar022@gmail.com) [![Mail](https://img.shields.io/badge/-iamomar22@yahoo.com-%236001D2?style=flat-square&logo=yahoo!&logoColor=ffffff&link=)](mailto:iamomar22@yahoo.com)
 -->
 
+<!--
 <p align="center">
 <a href="https://www.linkedin.com/in/iamomar22" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Md. Omar Faruk's LinkedIn Profile" height="30" width="30"></a>&nbsp;&nbsp;&nbsp; <a href="https://dev.to/iamomar22" target="_blank"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Md. Omar Faruk's DEV Profile" height="30" width="30"></a>&nbsp;&nbsp;&nbsp; <a href="https://stackoverflow.com/users/14398143/md-omar-faruk" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="Md. Omar Faruk's Stackoverflow Profile" height="30" width="30"></a>&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/IamOmaR222" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Md. Omar Faruk's Twitter Profile" height="30" width="30"></a>&nbsp;&nbsp;&nbsp; <a href="https://www.facebook.com/IamOmaR22" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Md. Omar Faruk's Facebook Profile" height="30" width="30"></a>&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/iamomar_22/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Md. Omar Faruk's Instagram Profile" height="30" width="30"></a> 
 </p>
+-->
 
 <!--
 [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -35,28 +39,49 @@ Have also been involved in personal research on Machine Learning and Natural Lan
 <!--
 I'm a full-stack software engineer working with **Python**, **Django**, **Vue.js**, **Docker**.
 -->
-## KEY SKILLS
+
+---
+## KEY SKILLS :computer:
 
 #### LANGUAGES
+<img alt="Python" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"/>|<img alt="HTML" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/html5.svg"/>|<img alt="CSS" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/css3.svg"/>|<img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/javascript.svg"/>|<img alt="Java" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/java.svg"/>|<img alt="C" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/c.svg"/>
+|--|--|--|--|--|--|
+ 
+<!--
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=Python&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Java](https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=Java)
 ![C](https://img.shields.io/badge/-C-%23A8B9CC?style=flat-square&logo=C&logoColor=%23222222)
+-->
 
 #### FRAMEWORKS
+<img alt="Django" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/django.svg"/>|<img alt="React" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg"/>|<img alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bootstrap.svg"/>
+|--|--|--|
+
+<!--
 ![Django](https://img.shields.io/badge/-Django-%23092E20?style=flat-square&logo=Django&logoColor=white)
 ![vue.js](https://img.shields.io/badge/-Vue.js-%23555555?style=flat-square&logo=vue.js&logoColor=%2341B883)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat-square&logo=Bootstrap)
+-->
 
 #### DATABASE
+<img alt="PostgreSQL" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg"/>|<img alt="SQLite" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/sqlite.svg"/>|<img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mysql.svg"/>|<img alt="Firebase" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/firebase.svg"/>|<img alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mongodb.svg"/>
+|--|--|--|--|--|
+ 
+<!--
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat-square&logo=PostgreSQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-%23003B57?style=flat-square&logo=SQLite)
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-2E2E2E?style=flat-square&logo=firebase&logoColor=ffcb2b)
+-->
 
 #### TOOLS
+<img alt="Git" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg"/>|<img alt="GitHub" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"/>|<img alt="GNU Bash" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg"/>|<img alt="Jupyter" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyter.svg"/>|<img alt="PyCharm" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pycharm.svg"/>|<img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg"/>|<img alt="Atom" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/atom.svg"/>|<img alt="Android Studio" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/androidstudio.svg"/>|<img alt="Heroku" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/heroku.svg"/>|<img alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ubuntu.svg"/>
+|--|--|--|--|--|--|--|--|--|--|
+
+<!--
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-%234EAA25?style=flat-square&logo=GNU-Bash&logoColor=ffffff)
@@ -65,6 +90,7 @@ I'm a full-stack software engineer working with **Python**, **Django**, **Vue.js
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-%233DDC84?style=flat-square&logo=Android-Studio&logoColor=222222)
 ![Heroku](http://img.shields.io/badge/-Heroku-400099?style=flat-square&logo=heroku&logoColor=white)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+-->
 
 <!--
 <p>
@@ -104,17 +130,27 @@ I'm a full-stack software engineer working with **Python**, **Django**, **Vue.js
 <code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
 -->
 
-
-## Interesting stats
+---
+## Interesting Stats
 <!--
 ![Omar's stats](https://github-readme-stats.vercel.app/api?username=IamOmar22&show_icons=true)
 [![Omar's github stats](https://github-readme-stats.vercel.app/api?username=IamOmar22&theme=dracula&show_icons=true)](https://github.com/IamOmar22)
 [![Omar's github stats](https://github-readme-stats.vercel.app/api?username=IamOmar22&theme=tokyonight&show_icons=true)](https://github.com/IamOmar22)
 -->
 
+<img align="left" alt="Md. Omar Faruk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=IamOmar22&theme=tokyonight&show_icons=true" />
+
+#### CONNECT WITH ME 👁‍🗨
+</br>
+<p align="center">
+<a href="https://www.linkedin.com/in/iamomar22" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Md. Omar Faruk's LinkedIn Profile" height="30" width="30"></a>&nbsp;&nbsp;&nbsp; <a href="https://dev.to/iamomar22" target="_blank"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Md. Omar Faruk's DEV Profile" height="30" width="30"></a>&nbsp;&nbsp;&nbsp; <a href="https://stackoverflow.com/users/14398143/md-omar-faruk" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="Md. Omar Faruk's Stackoverflow Profile" height="30" width="30"></a>&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/IamOmaR222" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Md. Omar Faruk's Twitter Profile" height="30" width="30"></a>&nbsp;&nbsp;&nbsp; <a href="https://www.facebook.com/IamOmaR22" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="Md. Omar Faruk's Facebook Profile" height="30" width="30"></a>&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/iamomar_22/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Md. Omar Faruk's Instagram Profile" height="30" width="30"></a> 
+</p> 
+
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IamOmar22&theme=tokyonight&show_icons=true" />
 </p> 
+-->
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamOmar22&theme=tokyonight)](https://github.com/IamOmar22)
