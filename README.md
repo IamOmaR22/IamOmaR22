@@ -33,7 +33,7 @@
 
 ## ABOUT ME 👋 
 
-A Full Stack Developer with Experience in Python, Django, PostgreSQL / SQLite / Firebase / MySQL. Looking for opportunities, learning new skills, and polishing current ones. I'm open-source development enthusiast.
+A Full Stack Developer with Experience in Python, Django, PostgreSQL / SQLite / Firebase / MySQL. Looking for opportunities, learning new skills, and polishing current ones. I'm an open-source development enthusiast.
 
 Have also been involved in personal research on Machine Learning and Natural Language Processing.
 <!--
